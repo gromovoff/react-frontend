@@ -9,7 +9,7 @@ class DropdownFetched extends Component {
         }
       }
         componentDidMount(){
-            fetch("http://localhost:5000/api", 
+            fetch("https://react-test-automation.herokuapp.com/api", 
             {
               method: "POST",
               headers: {

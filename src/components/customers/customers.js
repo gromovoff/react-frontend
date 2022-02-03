@@ -12,7 +12,7 @@ class Customers extends Component {
   submit = e => {
     e.preventDefault()
     console.log(e.target)
-    fetch("http://localhost:5000/api", 
+    fetch("https://react-test-automation.herokuapp.com/api", 
     {
       method: "POST",
       headers: {
