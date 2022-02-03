@@ -1,0 +1,14 @@
+.card-with-links {
+    max-width: 20rem;
+    margin-top: 10rem;
+}
+.table-with-customers {
+    max-width: 20rem;
+    margin-top: 3rem;
+}
+.input-form {
+    max-width: 20rem;
+    margin-top: 5rem;
+    border: 1px solid #dee2e6;
+    padding: 2rem 1.5rem;
+}
